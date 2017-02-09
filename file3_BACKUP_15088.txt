@@ -1,0 +1,6 @@
+hello file3
+<<<<<<< HEAD
+ABC
+=======
+XYZ
+>>>>>>> newbranch
